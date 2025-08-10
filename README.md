@@ -1,5 +1,4 @@
 # PREDICTIVE-ANALYSIS-USING-MACHINE-LEARNING
-# BIG-DATA-ANALYSIS
 # COMPANY: CODTECH IT SOLUTIONS
 # NAME: HRIDHYA ABHINA RAJEEVAN
 # INTERN ID: CT04DH2665
@@ -28,4 +27,4 @@ In conclusion, this task successfully demonstrated feature selection, model trai
 
 # output
 
-
+![Image](https://github.com/user-attachments/assets/6ad54118-765d-488f-b9cc-846028b45a5c)
